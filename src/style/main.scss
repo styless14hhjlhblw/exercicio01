@@ -1,0 +1,13 @@
+$body-html: rgb(rgb(106, 194, 245));
+
+body{
+    background-color: $body-html;
+}
+
+nav{
+    ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+}
